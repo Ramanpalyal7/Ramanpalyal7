@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://lottie.host/embed/6c31ce51-0789-43cb-a908-555835bbfccd/vua74QC7iJ.lottie"  />
+<img align="right" height="150" src="https://private-user-images.githubusercontent.com/99337968/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcyNTYxMTQsIm5iZiI6MTc1NzI1NTgxNCwicGF0aCI6Ii85OTMzNzk2OC8zMTM0NTA0NjQtMmJkMDU0MjItM2EzYi00ZDdjLTk0YTEtN2NkYjU4NGMwOWQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA3VDE0MzY1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ5NmUyMDhmYjUyYjcwMTExNDgyZTYyNzg3MWZkYzhmYWYyZmYwYzI4NGZiYWUzOTY5MmU2NWQzYjc1YTExOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XcwfkkhehotedtMoK51AwUWcyhIfvrIqcJIMai7WKGA"  />
 
 ###
 
@@ -92,7 +92,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://share.google/images/zPN8i1wuS8Zo5Y2da"  />
+  <img height="350" src="https://gifrific.com/wp-content/uploads/2013/03/Mark-Zuckerberg-Prepares-to-type.gif"  />
 </div>
 
 ###

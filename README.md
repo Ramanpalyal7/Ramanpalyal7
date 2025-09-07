@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://gifrific.com/wp-content/uploads/2013/03/Mark-Zuckerberg-Prepares-to-type.gif" />
+<img align="right" height="200" src="https://gifrific.com/wp-content/uploads/2013/03/Mark-Zuckerberg-Prepares-to-type.gif" />
 
 ###
 
@@ -21,7 +21,7 @@
   <a href="https://x.com/ramanpalyal7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=#1DA1F2&logoColor=White&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="connectwithraman7@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=connectwithraman7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>

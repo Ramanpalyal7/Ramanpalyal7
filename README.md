@@ -92,7 +92,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://gifrific.com/wp-content/uploads/2013/03/Mark-Zuckerberg-Prepares-to-type.gif"  />
+  <img height="550" width="1005" src="https://gifrific.com/wp-content/uploads/2013/03/Mark-Zuckerberg-Prepares-to-type.gif"  />
 </div>
 
 ###

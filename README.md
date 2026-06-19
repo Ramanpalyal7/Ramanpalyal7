@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Full Stack Projects. <br>- 📚 I'm currently learning React & Spring Boot.<br>- ⚡ I 'm in ❤️‍🔥 with building real stuff.<br>- 🛜 Let's build together , connect with me 👇</p>
+<p align="left">- 🔭 I’m currently working on Full Stack Projects. <br>-  ⚡ I 'm in ❤️‍🔥 with building real stuff.<br>- 🛜 Let's build together , connect with me 👇</p>
 
 ###
 
